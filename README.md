@@ -1,5 +1,5 @@
 # Formative 2: Multimodal Data Preprocessing
-### Group 4 — African Leadership University
+### Group 4 - ML Pipeline
 
 **User Identity and Product Recommendation System**
 A multimodal biometric authentication pipeline that verifies a user's identity through facial recognition and voice verification before delivering personalised product recommendations.
@@ -10,9 +10,9 @@ A multimodal biometric authentication pipeline that verifies a user's identity t
 
 | Name | Role |
 |------|------|
-| Glory Uwase | Experiment 1 — Pretrained Embedding Approach |
-| Kevin Murehwa | Experiment 1 — Pretrained Embedding Approach |
-| Justine Uwase | Experiment 2 — Supervised Classification Approach |
+| Glory Paul | Experiment 1 — Pretrained Embedding Approach |
+| Kevin Mike | Experiment 1 — Pretrained Embedding Approach |
+| Justine Uwamahoro | Experiment 2 — Supervised Classification Approach |
 | Edwin Bayingana | Experiment 2 — Supervised Classification Approach |
 
 ---
